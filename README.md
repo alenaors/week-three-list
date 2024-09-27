@@ -15,11 +15,11 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
 ```javascript
-git clone https://github.com/yourusername/week-three-todo.git
+git clone https://github.com/yourusername/week-three-list.git
 ```
 2. Navigate to the project directory:
 ```javascript
-cd week-three-todo
+cd week-three-list
 ```
 3. Install dependencies:
 ```javascript
